@@ -11,6 +11,7 @@
     <sonar.host.url>http://35.168.2.154:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>admin</sonar.password>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
